@@ -57,8 +57,6 @@ The system is developed on a **large, India-scale dataset (~51,336 customers wit
   - `case_study1.xlsx`
   - `case_study2.xlsx`
 
-> ⚠️ Raw datasets are not shared publicly due to confidentiality.
-
 ### Size
 - **Records:** 51,336 customers  
 - **Features:** 87 (before feature engineering)
